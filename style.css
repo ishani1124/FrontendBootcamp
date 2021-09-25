@@ -1,0 +1,13 @@
+.mynav{
+    padding-top: 15px;
+}
+.scp{
+    word-spacing: 3px;
+}
+
+@media (min-width: 768px) {
+    .news-letter{
+         width: 30%;
+    }    
+}
+
