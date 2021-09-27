@@ -1,7 +1,3 @@
-/* .mynav{
-     padding-top: 15px;
-} */
-
 /* The head of img1 is overridden by the nav bar. So, to avoid this */
 body::before{
     display: block;
@@ -18,3 +14,8 @@ body::before{
     }    
 }
 
+#map{
+    width:100%;
+    height: 100%;
+    border-radius: 10px;
+}
