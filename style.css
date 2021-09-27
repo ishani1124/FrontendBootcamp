@@ -1,5 +1,12 @@
-.mynav{
-    padding-top: 15px;
+/* .mynav{
+     padding-top: 15px;
+} */
+
+/* The head of img1 is overridden by the nav bar. So, to avoid this */
+body::before{
+    display: block;
+    content: '';
+    height: 50px;
 }
 .scp{
     word-spacing: 3px;
