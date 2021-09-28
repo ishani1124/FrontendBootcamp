@@ -1,2 +1,4 @@
 # FrontendBootcamp
-A Startup Website made using HTML, CSS and Bootstrap 
+A dummy startup Website made using HTML, CSS and Bootstrap 
+
+
